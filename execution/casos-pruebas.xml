@@ -11,7 +11,7 @@
             </classes>
         </test>
 
-        <test name="FirefoxTest">
+        <test name="FirefoxTesTTTTTTTTT">
             <classes>
                 <class name="testCases.CPA001_BuscarGoogle">
                 </class>
